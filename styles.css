@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+body {
+	margin:0;
+	font-family:Arial,sans-serif;
+}
+#yellow {
+	background-color:yellow;
+	border-color:green;
+	border-width:1px;
+}
+#red {
+	background-color:red;
+	border-color: solidblack;
+	border-width:1px;
+}
+#green {
+	background-color:green;
+	border-width:1px;
+	border-color:yellow;
+	
+}
